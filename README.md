@@ -52,4 +52,4 @@ listmonk is a free and open source software licensed under AGPLv3. If you are in
 
 
 ## License
-listmonk is licensed under the AGPL v3 license.
+listmonk is licensed under the AGPL v3 license. AlexArt
